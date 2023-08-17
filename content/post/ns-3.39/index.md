@@ -1,7 +1,7 @@
 ---
 title: ns-3.39
 description: 在Ubuntu上
-date: 2023-08-18
+date: 2023-08-17
 slug: ns-3
 image: alena-aenami-lost-1k.jpg
 categories:
