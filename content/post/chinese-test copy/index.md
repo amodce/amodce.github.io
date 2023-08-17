@@ -1,7 +1,7 @@
 ---
 title: ns-3.39
 description: 这是一个副标题
-date: 2023-08-18
+date: 2023-08-08
 slug: test-chinese
 image: alena-aenami-lost-1k.jpg
 categories:
