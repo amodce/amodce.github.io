@@ -7,7 +7,7 @@ title: Example Site
 languages:
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: 風雨暴疾
         description: 演示说明
         weight: 2
 
@@ -35,7 +35,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /alena-aenami-lost.jpg # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
         since: 2020
@@ -47,7 +47,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 海阔山遥，未知何处是潇湘？
         avatar:
             enabled: true
             local: true
