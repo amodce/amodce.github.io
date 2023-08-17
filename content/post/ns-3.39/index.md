@@ -1,5 +1,5 @@
 ---
-title: 安装ns-3.39
+title: ns-3.39
 description: 在Ubuntu上
 date: 2023-08-18
 slug: ns-3
