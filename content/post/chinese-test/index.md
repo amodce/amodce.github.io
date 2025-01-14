@@ -1,5 +1,5 @@
 ---
-title: ns-3.39
+title: test-chinese
 description: 这是一个副标题
 date: 2020-09-09
 slug: test-chinese
