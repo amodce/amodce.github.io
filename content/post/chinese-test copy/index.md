@@ -2,7 +2,7 @@
 title: test-chinese copy
 description: 这是一个副标题
 date: 2023-08-08
-slug: test-chinese
+slug: test-chinese copy
 image: alena-aenami-lost-1k.jpg
 categories:
     - Test
