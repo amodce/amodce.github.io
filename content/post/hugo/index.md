@@ -44,7 +44,7 @@ hugo new site
 这样就建立了一个文件夹。进入这个文件夹：`cd <blog>`
 然后初始化当前目录中的空 Git 存储库：
 ```
-git init
+ git init
 ```
 下一步就是安装主题，在https://themes.gohugo.io/ 里可以找一个你喜欢的，在主题的页面里一般都可以找到安装方法，一般格式是：`git submodule add <https> themes/<themename>`
 ```
@@ -68,10 +68,9 @@ git remote add origin
 把这些修改后的文件添加到本地库，并标记上“提交信息”：
 ```
 git add .
-
-
 git commit -m "commit message"
 ```
+
 "commit message"填啥都可以，这个是用来标记这次更新的内容。
 把“主干”设置为“main”：
 ```
@@ -89,7 +88,7 @@ git push -u origin main
 ```
 git add .
 git commit -m "commit message"
-git push -u origin main
+git push -u origin master
 ```
 这三句指令就可以了
 5 补充
