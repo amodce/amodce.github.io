@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 風雨暴疾</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on 風雨暴疾</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ns-3</title>
+      <link>http://localhost:1313/categories/ns-3/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ns-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>http://localhost:1313/categories/ubuntu/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/categories/test/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>测试</title>
+      <link>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
