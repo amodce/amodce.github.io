@@ -16,25 +16,25 @@ categories:
 确保`Add a README file`勾上，然后点击`Create repository`就行了。
 
 点绿色的`Code`，点`Codespaces`，点`Create Codespaces on main`
-```
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-```
+```bash
 echo >> /home/codespace/.bashrc
 echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/codespace/.bashrc
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 ```
 
-```
+```bash
 brew install hugo
 ```
-```
+```bash
 cd ..
 hugo new site $(basename $OLDPWD) --force
 cd $(basename $OLDPWD)
 ```
-```
+```bash
 git init
 git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
 cp -r themes/hugo-theme-stack/exampleSite/* $PWD
