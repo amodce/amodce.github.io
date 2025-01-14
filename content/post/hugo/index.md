@@ -2,7 +2,7 @@
 title: hugo教程
 description: 在Ubuntu上
 date: 2025-01-13
-slug: hugo
+slug: hugo_j
 image: alena-aenami-lost-1k.jpg
 categories:
     - hugo
