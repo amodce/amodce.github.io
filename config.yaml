@@ -7,7 +7,7 @@ title: Example Site
 languages:
     zh-cn:
         languageName: 中文
-        title: 風雨暴疾
+        title: 娄山关
         description: 演示说明
         weight: 2
 
@@ -47,7 +47,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 海阔山遥，未知何处是潇湘？
+        subtitle: 西风烈，长空雁叫霜晨月
         avatar:
             enabled: true
             local: true
