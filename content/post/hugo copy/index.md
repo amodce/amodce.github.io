@@ -31,13 +31,13 @@ brew install hugo
 ```
 ```
 cd ..
-hugo new site cetcsc.github.io --force
-cd cetcsc.github.io
+hugo new site $(basename $OLDPWD) --force
+cd $(basename $OLDPWD)
 ```
 ```
 git init
 git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
-cp -r themes/hugo-theme-stack/exampleSite/* /workspaces/cetcsc.github.io
+cp -r themes/hugo-theme-stack/exampleSite/* $PWD
 rm hugo.toml
 ```
 然后在左侧的“源代码管理”中，随便填一段话，点“提交并推送“。
